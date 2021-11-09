@@ -4,7 +4,7 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-chemical_composition,Chemical Composition,
+chemical composition,Chemical Composition,
 location,Location
 latitude,Latitude
 longitude,Longitude
