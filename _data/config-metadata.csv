@@ -5,6 +5,8 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 chemical composition,Chemical Composition,
+color,Color
+streak,Streak
 location,Location
 source,Source
 identifier,Source Identifier,,
