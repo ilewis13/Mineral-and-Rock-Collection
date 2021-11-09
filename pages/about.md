@@ -20,6 +20,6 @@ The minerals and rocks in this collection are from Travis Jackson's personal col
 
 ## About the Collector
 
-Travis Jackson has always been interested in learning about and collecting various kinds of mineral and rocks since from a young age. As a kid, he would always pick up interesting rocks he saw whereever he went and would beg his parents to fill a bag of tumbled stones at fairs. Jackson enjoys working at the Mobile Minning Experience as it provided him the wonderful opprotunity to learn and collect more minerals and rocks for his ever growing collection. He hopes to someday organize and display the rest of his collection in order to show off the many kinds of minerals and rocks their different form, natural and polished. 
+Travis Jackson has always been interested in learning about and collecting various kinds of mineral and rocks since from a young age. As a kid, he would always pick up interesting rocks he saw wherever he went and would beg his parents to fill a bag of tumbled stones at fairs. Jackson enjoys working at the Mobile Minning Experience as it provided him the wonderful opprotunity to learn and collect more minerals and rocks for his ever growing collection. He hopes to someday organize and display the rest of his collection in order to show off the many kinds of minerals and rocks their different form, natural and polished. 
 
 
