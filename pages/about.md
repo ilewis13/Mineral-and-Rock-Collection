@@ -8,20 +8,16 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://ilewis13.github.io/Mineral-and-Rock-Collection/item.html?id=coll001" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Collector" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The minerals and rocks in this collection are from Travis Jackson's personal collection, which he started accumulating around 2015. He acquired many of his specimens when he started working for the Mobile Minning Experience, a business under the Geologic Times Corporation, which provides fun and educational learning opprotunites for children to learn about minerals and rocks. This collection displays but a small portion of Travis Jackson's personal collection that includes more than 20,000 specimens, with around 500 differnt types of different minerals and rocks in their polished and natural forms.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+## About the Collector
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Travis Jackson has always been interested in learning about and collecting various kinds of mineral sand rocks since from a young age. As a kid, he would always pick up interesting rocks he saw whereever he went and would beg his parents to fill a bag of tumbled stones at fairs. Jackson enjoys working at the Mobile Minning Experience as it provided him the wonderful opprotunity to learn and collect more minerals and rocks for his ever growing collection. He hopes to someday organize and display the rest of his collection in order to show off the many kinds of minerals and rocks their different form, natural and polished. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
