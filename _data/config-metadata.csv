@@ -6,8 +6,6 @@ description,Description,
 subject,Subjects,true
 chemical composition,Chemical Composition,
 location,Location
-latitude,Latitude
-longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
