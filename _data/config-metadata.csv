@@ -6,6 +6,9 @@ subject,Subjects,true
 chemical composition,Chemical Composition,
 color,Color
 streak,Streak
+luster,Luster
+mohs hardness, Mohs Hardness
+crystal structure,Crystal Structure
 location,Location
 source,Source
 identifier,Source Identifier,,
