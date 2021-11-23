@@ -1,7 +1,12 @@
 field,index,display
 title,true,true
-date,true,true
+date acquired,true,true
 creator,true,false
 description,true,true
 subject,true,true
 location,true,false
+color,true,true
+chemical composition,true,true
+mohs hardness,true,true
+luster,true,true
+crystal structure,true,true
