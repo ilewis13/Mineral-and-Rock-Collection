@@ -2,11 +2,5 @@ field,display_name,btn,hidden,sort_name
 date acquired,Date Acquired,,,Date Acquired
 description,Description,,,
 creator,Creator,,,
-subject,Subjects,,,
-location origin,Location Origin,,,
-color,Color,,,Color
 chemical composition,Chemical Composition,,,
-streak,Streak,,,
-luster,Luster,,,
 mohs hardness,Mohs Hardeness,,,
-crystal structure,Crystal Structure,,,
