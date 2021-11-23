@@ -1,6 +1,6 @@
 field,index,display
 title,true,true
-date acquired,true,true
+date acquired,true,false
 creator,true,false
 description,true,true
 subject,true,false
