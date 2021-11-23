@@ -1,6 +1,6 @@
 field,display_name,search
-date,Date,true
+date acquired,Date Acquired,true
 creator,Creator,true
 description,Description,true
 subject,Subjects,true
-location,Location,true
+location origin,Location Origin,true
