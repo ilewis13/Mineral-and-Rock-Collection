@@ -1,11 +1,11 @@
 field,display_name,btn,hidden,sort_name
-title,Title,,,
+title,Title,,,Title
 date acquired,Date Acquired,,,Date Acquired
 description,Description,,,
 creator,Creator,,,
 subject,Subjects,,,
 location origin,Location Origin,,,
-color,Color,,,
+color,Color,,,Color
 chemical composition,Chemical Composition,,,
 streak,Streak,,,
 luster,Luster,,,
