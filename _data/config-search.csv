@@ -5,8 +5,8 @@ creator,true,false
 description,true,true
 subject,true,false
 location,true,false
-color,true,true
-chemical composition,true,true
-mohs hardness,true,true
-luster,true,true
-crystal structure,true,true
+color,true,false
+chemical composition,true,false
+mohs hardness,true,false
+luster,true,false
+crystal structure,true,false
