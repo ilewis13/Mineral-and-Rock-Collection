@@ -5,7 +5,7 @@ creator,true,false
 description,true,true
 subject,true,false
 location,true,false
-color,true,false
+color,true,true
 chemical composition,true,false
 mohs hardness,true,false
 luster,true,false
