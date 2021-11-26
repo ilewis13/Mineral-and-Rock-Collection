@@ -6,7 +6,7 @@ description,true,true
 subject,true,false
 location,true,false
 color,true,true
-chemical composition,true,false
+chemical composition,true,true
 mohs hardness,true,false
 luster,true,false
 crystal structure,true,false
