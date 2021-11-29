@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-The minerals and rocks in this collection are from Travis Jackson's personal collection, which he started accumulating around 2015. He acquired many of his specimens when he started working for the Mobile Minning Experience, a business under the Geologic Times Corporation. This business provides fun and educational opportunities for children to learn about minerals and rocks. The collection displays but a small portion of Travis Jackson's personal collection that includes more than 20,000 specimens, with around 500 differnt types of different minerals and rocks in their polished and natural forms.
+The minerals and rocks in this collection are from Travis Jackson's personal collection, which he started accumulating around 2015. He acquired many of his specimens when he started working for the Mobile Minning Experience, a business under the Geologic Times Corporation. This business provides fun and educational opportunities for children to learn about minerals and rocks. The collection displays but a small portion of Travis Jackson's personal collection that includes more than 20,000 specimens, with around 500 different types of different minerals and rocks in their polished and natural forms.
 
 {% include feature/button.html text="Geologic Times Corporation" link="https://www.gtcrocks.com" color="success" %}
 
